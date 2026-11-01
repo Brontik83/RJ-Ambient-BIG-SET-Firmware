@@ -1,3 +1,7 @@
+# Aktuální vydání V1.2.9
+
+Sjednocené barvy, Vypnout a intenzita; samostatné vypnutí středu/obvodu koníka. Obsahuje dřívější místní změny rozhraní a odstranění náhledu IVECO. Ověřeno sestavení a podpis; fyzický test zbývá.
+
 # RJ Ambient BIG SET – firmware
 
 Veřejná distribuce podepsaných aktualizací BIG SET.
