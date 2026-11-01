@@ -1,9 +1,9 @@
 {
   "profile": "RJ_AMBIENT_IVECO_28LED_HW1",
-  "version": "1.2.6",
-  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V1.2.6_SIGNED.bin",
-  "url": "https://github.com/Brontik83/RJ-Ambient-BIG-SET-Firmware/releases/download/v1.2.6/RJ_AMBIENT_IVECO_28LED_HW1_V1.2.6_SIGNED.bin",
-  "sha256": "d315a08fb10571fc8ed8fb166c7c807756e33fb117e5892d26e575f425f7d132",
+  "version": "1.2.9",
+  "filename": "RJ_AMBIENT_IVECO_28LED_HW1_V1.2.9_SIGNED.bin",
+  "url": "https://github.com/Brontik83/RJ-Ambient-BIG-SET-Firmware/releases/download/v1.2.9/RJ_AMBIENT_IVECO_28LED_HW1_V1.2.9_SIGNED.bin",
+  "sha256": "28821086251763c7f93c335d6aa5931b4d2cbb97f3011bf6b225b2ec9dd7c14e",
   "key_id": "9A955362A5D1272C",
-  "notes": "Přehled BIG SET, samostatné a společné vypínače, volitelné obnovení D5 a samostatná distribuce aktualizací. Ověřeno sestavení, nikoli fyzický hardware."
+  "notes": "Sjednocené barvy, intenzita a vypnutí zón; přehled se stavem, čistší rozhraní a odstraněný náhled IVECO. Ověřeno sestavení a podpis, fyzický test zbývá."
 }
